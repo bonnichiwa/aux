@@ -1,0 +1,59 @@
+body {
+  text-align: center;
+  padding: 100px;
+  background-color: #F2F6F7;
+  color: #363E40;
+  font-family: 'Raleway', sans-serif;
+}
+
+p {
+  line-height: 22px;
+}
+
+.heading { 
+  font-family: Georgia, serif;
+  font-style: italic;
+  margin-bottom: 5px;
+}
+
+.sub_heading {
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  font-weight: 300;
+  line-height: 18px;
+  margin-top: 0px;
+}
+
+.introduction, .objective, .submission, .submission .heading {
+  margin-top: 150px;
+  text-align: left;
+}
+
+.quote {
+  padding-top: 50px;
+  text-align: justify;
+  max-width: 550px;
+  margin: 0 auto;
+  line-height: 22px;
+}
+
+.quote .heading, .quote .sub_heading {
+  text-align: center;
+}
+
+.quote h2 {
+  padding-bottom: 30px;
+}
+
+.blurb {
+  margin-top: 0px;
+}
+
+.submission img {
+  margin-top: 50px;
+  max-width: 1200px;
+}
+
+.app {
+  text-align: center;
+}
