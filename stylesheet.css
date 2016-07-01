@@ -18,6 +18,10 @@ p {
   margin-bottom: 5px;
 }
 
+h2.heading, h1.heading {
+  text-shadow: 1px 1px #85e2e1;
+}
+
 .sub_heading {
   text-transform: uppercase;
   letter-spacing: 2px;
@@ -42,7 +46,7 @@ p {
 }
 
 .profile {
-  max-width: 100px;
+  max-width: 120px;
   margin: 0 auto;
   text-align: center;
 }
